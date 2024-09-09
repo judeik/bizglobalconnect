@@ -46,6 +46,6 @@ This project is open-source and available under the MIT [LICENSE](LICENSE).
 ##  Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: judeojobor@gmail.com
-LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ojobor-jude-ik-292b9612b/)
-Phone: +234-8061-599-859
+- **Email:** judeojobor@gmail.com
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ojobor-jude-ik-292b9612b/)
+- **Phone:** +234-8061-599-859
